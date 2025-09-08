@@ -1,4 +1,4 @@
-const API_KEY = "39f4012a3c1b406e895cd8922e036b66";
+const API_KEY = "";
 
 // Default load: top headlines from India
 window.addEventListener("load", () => fetchHeadlines("in"));
